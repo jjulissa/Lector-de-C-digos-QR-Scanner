@@ -67,6 +67,9 @@ class MainActivity : AppCompatActivity() {
 }
 
 
+
+// https://github.com/journeyapps/zxing-android-embedded
+
 //  Zxing es una librería que llevo años utilizando en todo tipo de aplicaciones,
 //   desde personales hasta profesionales. Esta librería nos permite de una forma
 //   muy sencilla poder leer una gran cantidad de códigos,
